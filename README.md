@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjiblamichhane
-- 👀 I’m interested in software engineering, machine learning and automation.
+- 👀 I’m interested in software engineering, machine learning, robotics and cloud services.
 - 🌱 I’m currently learning how to use cloud technologies to scale a product deployment.
-- 💞️ I’m looking to collaborate on open-source projects.
+- 💞️ I’m looking to collaborate on business or a community driven projects.
 - 📫 How to reach me ? Email: slamich000@gmail.com
 
 <!---
