@@ -10,8 +10,8 @@ I am a fullstack computer engineer with 10+ years of coding experience. I am pas
 
 ## 🌱 Currently Learning
 
+- [Data-intensive Enterprise Scale Product Management](): Managing development of the data-intensive applications.
 - [Open-Source Community Development](): Developing open-source technologies.
-- [Data-intensive Product Management](): Managing development of the data-intensive applications.
 
 ## 📫 How to Reach Me
 
