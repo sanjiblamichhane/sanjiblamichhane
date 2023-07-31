@@ -16,7 +16,7 @@ I am a fullstack computer engineer with 10+ years of coding experience. I am pas
 ## 📫 How to Reach Me
 
 - Github: [Github](https://github.com/sanjiblamichhane)
-- Website [Personal](https://www.sanjiblamichhane.com/)
+- Website [Personal](https://www.sanjiblamichhane.com/contact)
 
 
 
