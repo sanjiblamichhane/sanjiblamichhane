@@ -4,7 +4,7 @@ I am a fullstack computer engineer with 10+ years of coding experience. I am pas
 
 ## 🔭 Notable Engagements
 
-- Fullstack development of [this API](https://www.opensourcenepal.com/) by modeling and standarizing public data and making data accessible for anyone.
+- Fullstack development of [this API](https://www.opensourcenepal.com/docs) by modeling and standarizing public data and making data accessible for anyone.
 - Creating Conversational Language Model specialized on economics of emerging markets.
 - Mentoring and educating young populations to help them learn and master software engineering!
 
